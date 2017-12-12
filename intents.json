@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "currency",
+          "type": "AMAZON.LITERAL"
+        }
+      ],
+      "intent": "CurrentPriceIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "currency",
+          "type": "AMAZON.LITERAL"
+        }
+      ],
+      "intent": "PredictIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "currency",
+          "type": "AMAZON.LITERAL"
+        }
+      ],
+      "intent": "SentimentIntent"
+    }
+  ]
+}

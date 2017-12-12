@@ -1,0 +1,18 @@
+AMAZON.HelpIntent help
+AMAZON.HelpIntent what do you do?
+
+CurrentPriceIntent what is the price of {bitcoin|currency}
+CurrentPriceIntent how much is {litecoin|currency}
+CurrentPriceIntent how high is {ethereum|currency}
+CurrentPriceIntent how is {ripple|currency} doing
+
+PredictIntent should I buy {bitcoin|currency}
+PredictIntent will the price of {litecoin|currency} go up
+PredictIntent will {ethereum|currency} go up
+PredictIntent what do you think about {iota|currency}
+
+
+SentimentIntent what is the news on {bitcoin|currency}
+SentimentIntent what are people saying about {ethereum|currency}
+SentimentIntent {ripple|currency} news
+
